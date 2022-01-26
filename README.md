@@ -1,2 +1,3 @@
-# competitive-programming
-Some interesting problems solved throughout two years of studying competitive programming and algorithms.
+## Competitive Programming
+
+Some interesting problems I solved throughout two years of studying competitive programming, data structures & algorithms.
